@@ -6,7 +6,7 @@
 
 Web app to help you slow down for a bit. Take a few deep breaths along with the animation. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![alt text](docs/home.png)
+![alt text](docs/giphy.gif)
 
 ## 🔨 Tools
 - Node.js
