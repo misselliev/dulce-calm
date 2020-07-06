@@ -52,7 +52,7 @@ npm start
 - Latest version of **[NodeJS](https://nodejs.org/en/)** _-- (npm included)_.
 
 ## :pencil2: Todo
-- [Testing](https://github.com/misselliev/dulce-calendar-redux/issues/6)
+- Implement Dark Mode
 
 ## Author
 
