@@ -1,58 +1,26 @@
-![node](https://img.shields.io/node/v/webpack?style=flat-square)
 ![beta development](https://img.shields.io/badge/beta-development-green?style=flat-square)
 ![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
 
 # 💻 Dulce Calm Web App (BETA)
 
-Web app to help you slow down for a bit. Take a few deep breaths along with the animation. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Web app to help you slow down for a bit. Take a few deep breaths along with the animation. 
 
 ![alt text](docs/giphy.gif)
 
 ## 🔨 Tools
-- Node.js
-- React
-- React-DOM
-- React-Create-App
-- Npm
+- HTML
 - CSS
 - ES6
 
 
 ## ✨ Live Demo
 
-You can look at it [here](https://intense-garden-00658.herokuapp.com/).
+You can look at it [here]() //to be updated.
 
-
-## 🚀 Getting Started
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Clone
-
-```sh
-git clone git@github.com:misselliev/dulce-calm.git
-cd dulce-calm
-```
-
-### Install
-
-```sh
-npm install
-```
-
-### Usage
-
-```sh
-npm start
-```
-
-### Requirements
-
-- Latest version of **[NodeJS](https://nodejs.org/en/)** _-- (npm included)_.
 
 ## :pencil2: Todo
 - Implement Dark Mode
+
 
 ## Author
 
